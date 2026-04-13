@@ -1,1 +1,1 @@
-# tejareddy
+# Smart College Event Management System (MVP)\n\nBeginner-friendly full-stack project to manage college events.\n\nTech stack: HTML/CSS/JS front-end, Node.js + Express backend, JSON file for MVP data storage.\n\nHow to run:\n1. Install dependencies: npm install\n2. Start server: npm start\n3. Open student page: http://localhost:3000\n   Open admin page: http://localhost:3000/admin.html\n\nNotes: This is an MVP. For production use a real database (MongoDB) and authentication.

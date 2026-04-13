@@ -1,0 +1,1 @@
+{\n  "name": "smart-college-events",\n  "version": "1.0.0",\n  "description": "Smart College Event Management System (MVP)",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.18.2",\n    "body-parser": "^1.20.2",\n    "cors": "^2.8.5"\n  }\n}
